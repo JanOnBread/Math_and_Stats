@@ -1,6 +1,7 @@
 
 """
 Plot Recamán's sequence as semicircles (Python)
+@ JanOnBread (https://github.com/JanOnBread)
 """
 
 # Importing modules 
