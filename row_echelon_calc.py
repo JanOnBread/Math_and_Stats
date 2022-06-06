@@ -1,5 +1,5 @@
 """
-Row_Echelon_calc
+Row_Echelon_calc ver 1.0 (inital release )
 
 Here is what the calculator can do/ help sheet: 
 ================================ STEPS=========================================
